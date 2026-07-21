@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Trie
 |  |
