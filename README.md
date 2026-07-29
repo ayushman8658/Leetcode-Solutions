@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
