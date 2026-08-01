@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
