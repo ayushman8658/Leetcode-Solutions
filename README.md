@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushman8658/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
